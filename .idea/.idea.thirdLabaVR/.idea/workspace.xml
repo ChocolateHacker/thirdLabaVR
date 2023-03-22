@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc29d9aa-e2ce-435d-b960-f64c4a03815a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.thirdLabaVR/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.thirdLabaVR/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.thirdLabaVR/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.thirdLabaVR/.idea/markdown.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.thirdLabaVR/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.thirdLabaVR/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.thirdLabaVR/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.vsconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CheckVRDevices.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/CheckVRDevices.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/Capsule.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/Capsule.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/ChangeModesс.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/ChangeModesс.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/DragableCube.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/DragableCube.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/Fire.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/Fire.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/GoldCube.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/GoldCube.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/MyHand.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/MyHand.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/New Material 1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/New Material 1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/New Material 2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/New Material 2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/New Material.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/New Material.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/Table.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/Table.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/ground.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/ground.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/reticle.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/reticle.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/retircle2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/retircle2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/woo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/New Folder/woo.mp3.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.0.4.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.0.4/Starter Assets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.0.4/Starter Assets/.sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.0.4/Starter Assets/XRI Default Continuous Move.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.0.4/Starter Assets/XRI Default Continuous Move.preset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.0.4/Starter Assets/XRI Default Continuous Turn.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.0.4/Starter Assets/XRI Default Continuous Turn.preset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.0.4/Starter Assets/XRI Default Input Actions.inputactions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.0.4/Starter Assets/XRI Default Input Actions.inputactions.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.0.4/Starter Assets/XRI Default Left Controller.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.0.4/Starter Assets/XRI Default Left Controller.preset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.0.4/Starter Assets/XRI Default Right Controller.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.0.4/Starter Assets/XRI Default Right Controller.preset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.0.4/Starter Assets/XRI Default Snap Turn.preset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.0.4/Starter Assets/XRI Default Snap Turn.preset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.3.0.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.3.0/Starter Assets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.3.0/Starter Assets/Models.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.3.0/Starter Assets/Models/XRControllerLeft.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.3.0/Starter Assets/Models/XRControllerLeft.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.3.0/Starter Assets/Models/XRControllerRight.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.3.0/Starter Assets/Models/XRControllerRight.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.3.0/Starter Assets/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.3.0/Starter Assets/Prefabs/XR Origin Pieces.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.3.0/Starter Assets/Prefabs/XR Origin Pieces/XR Controller Left.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.3.0/Starter Assets/Prefabs/XR Origin Pieces/XR Controller Left.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.3.0/Starter Assets/Prefabs/XR Origin Pieces/XR Controller Right.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Samples/XR Interaction Toolkit/2.3.0/Starter Assets/Prefabs/XR Origin Pieces/XR Controller Right.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Fonts/LiberationSans.ttf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Drop Shadow.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Outline.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/TMP Settings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_SDF.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMP_Sprite.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro.cginc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.json.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Sprites/EmojiOne.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Data.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Data/vg-grasps-onboarding.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Data/vg-grasps-onboarding.db.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Doc.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Doc/EULA.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Doc/EULA.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Doc/VirtualGraspSDKUnityAPI.1.1.0.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Doc/VirtualGraspSDKUnityAPI.1.1.0.pdf.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Editor/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Editor/Resources/gleechi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Editor/Resources/gleechi.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Plugins.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Plugins/Android.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Plugins/Android/libtbb.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Plugins/Android/libtbb.so.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Plugins/Android/libvirtualgrasp-selection.so" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Plugins/Android/libvirtualgrasp-selection.so.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Plugins/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Plugins/Editor/virtualgrasp-editor.CSharp.Unity.NET3.5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Plugins/Editor/virtualgrasp-editor.CSharp.Unity.NET3.5.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Plugins/Editor/virtualgrasp-editor.CSharp.Unity.NET3.5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Plugins/Editor/virtualgrasp-editor.CSharp.Unity.NET3.5.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Plugins/virtualgrasp.CSharp.Unity.NET3.5.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Plugins/virtualgrasp.CSharp.Unity.NET3.5.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Plugins/virtualgrasp.CSharp.Unity.NET3.5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Plugins/virtualgrasp.CSharp.Unity.NET3.5.xml.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Plugins/x86_64.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Plugins/x86_64/virtualgrasp-selection.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Plugins/x86_64/virtualgrasp-selection.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GleechiHands.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GleechiHands/GleechiRig.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GleechiHands/GleechiRig.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GleechiHands/M_GleechiHands.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GleechiHands/M_GleechiHands.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GleechiHands/SH_GleechiHands.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GleechiHands/SH_GleechiHands.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GleechiHands/SH_GleechiUnlit.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GleechiHands/SH_GleechiUnlit.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GraspEditor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GraspEditor/GraspEditor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GraspEditor/GraspEditor.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GraspEditor/M_darkGray.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GraspEditor/M_darkGray.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GraspEditor/M_gray.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GraspEditor/M_gray.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GraspEditor/M_lighterGreyPlastic.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GraspEditor/M_lighterGreyPlastic.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GraspEditor/M_orange.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GraspEditor/M_orange.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GraspEditor/M_white.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GraspEditor/M_white.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GraspEditor/SM_recMagnet.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GraspEditor/SM_recMagnet.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GraspEditor/VG_GraspEditor.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GraspEditor/VG_GraspEditor.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GraspEditor/graspEditor.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/GraspEditor/graspEditor.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/RimLight.shader" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/RimLight.shader.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_ControllerProfiles.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_ControllerProfiles/VG_EC_LeapHand.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_ControllerProfiles/VG_EC_LeapHand.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_ControllerProfiles/VG_EC_MouseHand.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_ControllerProfiles/VG_EC_MouseHand.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_ControllerProfiles/VG_EC_OculusHand.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_ControllerProfiles/VG_EC_OculusHand.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_ControllerProfiles/VG_EC_Remote.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_ControllerProfiles/VG_EC_Remote.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_ControllerProfiles/VG_EC_Replay.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_ControllerProfiles/VG_EC_Replay.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_ControllerProfiles/VG_EC_SteamHand.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_ControllerProfiles/VG_EC_SteamHand.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_ControllerProfiles/VG_EC_UnityInteractionHand.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_ControllerProfiles/VG_EC_UnityInteractionHand.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_ControllerProfiles/VG_EC_UnityXRHand.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_ControllerProfiles/VG_EC_UnityXRHand.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_HandProfiles.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_HandProfiles/VG_GleechiHands_Profile.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_HandProfiles/VG_GleechiHands_Profile.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_HandProfiles/VG_HandyHands_Profile.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_HandProfiles/VG_HandyHands_Profile.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_HandProfiles/VG_SteamHand_Profile.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/VG_HandProfiles/VG_SteamHand_Profile.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/XRI Default Input Actions.inputactions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Resources/XRI Default Input Actions.inputactions.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_apple.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_apple.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_black.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_black.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_blue.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_blue.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_brown.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_brown.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_darkOrange.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_darkOrange.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_glass.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_glass.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_glow.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_glow.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_graspEditor.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_graspEditor.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_green.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_green.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_lightGray.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_lightGray.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_lighterGrey.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_lighterGrey.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_metal.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_metal.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_purple.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_purple.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_red.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_red.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_sky.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_sky.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_transparentBlue.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_transparentBlue.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_transparentGreen.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_transparentGreen.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_transparentRed.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_transparentRed.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_yellow.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/M_yellow.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/factoryA.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/factoryA.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/factoryB.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Materials/factoryB.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/DM_showerHead.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/DM_showerHead.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/Factory.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/Factory.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/M_Torquewrench.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/M_Torquewrench.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_Chain.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_Chain.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_Pilers.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_Pilers.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_Scredriver.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_Scredriver.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_ScrewBox.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_ScrewBox.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_Screw_SeatDetails.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_Screw_SeatDetails.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_Valve.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_Valve.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_Valve_Collsion.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_Valve_Collsion.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_apple.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_apple.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_bottleAndCap.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_bottleAndCap.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_magnetBoard.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_magnetBoard.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_perotisPlate.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_perotisPlate.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_plateSmooth.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_plateSmooth.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_powerButton.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_powerButton.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_radio.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_radio.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_wineGlass.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/SM_wineGlass.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/Screw_Seat.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/Screw_Seat.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/dentalCottonRoll.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/dentalCottonRoll.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/etsareBondingTool.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/etsareBondingTool.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/sm_roundMagnet.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Meshes/sm_roundMagnet.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/PhysicsMaterials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/PhysicsMaterials/Bounce.physicMaterial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/PhysicsMaterials/Bounce.physicMaterial.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/PhysicsMaterials/Slippery.physicMaterial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/PhysicsMaterials/Slippery.physicMaterial.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/PhysicsMaterials/Wood.physicMaterial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/PhysicsMaterials/Wood.physicMaterial.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/apple.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/apple.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/apple_jumpgrasp.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/apple_jumpgrasp.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/bottle_assemble_vgarticulation.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/bottle_assemble_vgarticulation.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/bottle_assemble_vgarticulation_physical.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/bottle_assemble_vgarticulation_physical.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/button_indexpush.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/button_indexpush.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/chain_assemble_vgarticulation_physical.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/chain_assemble_vgarticulation_physical.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/chainloop.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/chainloop.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/chainloop_assemble.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/chainloop_assemble.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/pad_with_planar_button.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/pad_with_planar_button.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/plate_container.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/plate_container.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/pliers_animate_manipulation.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/pliers_animate_manipulation.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/radio_assemble.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/radio_assemble.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/screw.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/screw.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/screw_jumpgrasp.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/screw_jumpgrasp.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/screw_jumpgrasp_assemble.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/screw_jumpgrasp_assemble.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/screwdriver.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/screwdriver.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/screwdriver_assemble.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/screwdriver_assemble.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/showerHead.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/showerHead.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/showerHead_jumpgrasp.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/showerHead_jumpgrasp.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/valve_assemble_articulationbody.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/valve_assemble_articulationbody.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/wineglass.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/wineglass.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/wineglass_jumpgrasp.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/wineglass_jumpgrasp.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/wrench.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/wrench.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/wrench_jumpgrasp.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Prefabs/wrench_jumpgrasp.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Scripts/AssembleArticulationBody.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Scripts/AssembleArticulationBody.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Scripts/ChangeSelectionWeight.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Scripts/ChangeSelectionWeight.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Scripts/ManageContainerObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Scripts/ManageContainerObject.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Scripts/MetalImpact.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Scripts/MetalImpact.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Scripts/Move.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Scripts/Move.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Scripts/SimpleImpact.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Scripts/SimpleImpact.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Scripts/SoundOnGraspEvents.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Scripts/SoundOnGraspEvents.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Scripts/SoundOnPushEvents.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Scripts/SoundOnPushEvents.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Scripts/ToggleLight.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Scripts/ToggleLight.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/SoundEffects.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/SoundEffects/VGSound_LightOff.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/SoundEffects/VGSound_LightOff.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/SoundEffects/VGSound_LightOn.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/SoundEffects/VGSound_LightOn.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/SoundEffects/VGSound_ScrewFallingOnPlate.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/SoundEffects/VGSound_ScrewFallingOnPlate.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/SoundEffects/VGSound_ScrewFallingOnTable.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/SoundEffects/VGSound_ScrewFallingOnTable.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/SoundEffects/VGSound_Throw.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/SoundEffects/VGSound_Throw.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/SoundEffects/VGSound_Thud.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/SoundEffects/VGSound_Thud.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/SoundEffects/VGSound_TurnWheel.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/SoundEffects/VGSound_TurnWheel.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/SoundEffects/VGSound_UnHinge.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/SoundEffects/VGSound_UnHinge.wav.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Textures.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Textures/FactoryBakeA.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Textures/FactoryBakeA.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Textures/FactoryBakeB.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Textures/FactoryBakeB.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Textures/T_apple.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/Textures/T_apple.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/VG_Onboarding.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/VG_Onboarding.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/VG_Onboarding.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/VG_Onboarding/LightingData.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/VG_Onboarding/LightingData.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/VG_Onboarding/ReflectionProbe-0.exr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/VG_Onboarding/ReflectionProbe-0.exr.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/VG_Onboarding/ReflectionProbe-1.exr" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scenes/onboarding/VG_Onboarding/ReflectionProbe-1.exr.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/MyVirtualGrasp.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/MyVirtualGrasp.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_AnimationDriver.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_AnimationDriver.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_Assemble.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_Assemble.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_ExternalControllerManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_ExternalControllerManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_ExternalControllers.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_ExternalControllers/VG_EC_GenericHand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_ExternalControllers/VG_EC_GenericHand.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_ExternalControllers/VG_EC_LeapHand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_ExternalControllers/VG_EC_LeapHand.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_ExternalControllers/VG_EC_MouseHand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_ExternalControllers/VG_EC_MouseHand.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_ExternalControllers/VG_EC_OculusHand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_ExternalControllers/VG_EC_OculusHand.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_ExternalControllers/VG_EC_SteamHand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_ExternalControllers/VG_EC_SteamHand.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_ExternalControllers/VG_EC_UnityInteractionHand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_ExternalControllers/VG_EC_UnityInteractionHand.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_ExternalControllers/VG_EC_UnityXRHand.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_ExternalControllers/VG_EC_UnityXRHand.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_FingerAnimator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_FingerAnimator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_GraspEditor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_GraspEditor.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_HandStatusDebugger.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_HandStatusDebugger.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_HandVisualizer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_HandVisualizer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_Highlighter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_Highlighter.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_HintVisualizer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_HintVisualizer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_ObjectAnimator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_ObjectAnimator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_PostAnimator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_PostAnimator.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_Scripts.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Scripts/VG_Scripts.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/1_ProjectSetup.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/1_ProjectSetup/0-ContentSummary.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/1_ProjectSetup/0-ContentSummary.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/1_ProjectSetup/1_Intro.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/1_ProjectSetup/1_Intro.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/1_ProjectSetup/2_AddAvatar.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/1_ProjectSetup/2_AddAvatar.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/1_ProjectSetup/3_AddVgMain.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/1_ProjectSetup/3_AddVgMain.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/1_ProjectSetup/4_ConnectAvatarAndVG.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/1_ProjectSetup/4_ConnectAvatarAndVG.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/1_ProjectSetup/5_ConfigureController.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/1_ProjectSetup/5_ConfigureController.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/1_ProjectSetup/6_Summary.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/1_ProjectSetup/6_Summary.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/2_ObjectBaking.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/2_ObjectBaking/0-ContentSummary.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/2_ObjectBaking/0-ContentSummary.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/2_ObjectBaking/1_Intro.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/2_ObjectBaking/1_Intro.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/2_ObjectBaking/2_AddObject.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/2_ObjectBaking/2_AddObject.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/2_ObjectBaking/3_PrepareObject.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/2_ObjectBaking/3_PrepareObject.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/2_ObjectBaking/4_ExportObject.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/2_ObjectBaking/4_ExportObject.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/2_ObjectBaking/5_PackageZip.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/2_ObjectBaking/5_PackageZip.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/2_ObjectBaking/6_Bake.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/2_ObjectBaking/6_Bake.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/2_ObjectBaking/7_Summary.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/2_ObjectBaking/7_Summary.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/3_FingerTracking.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/3_FingerTracking/0-ContentSummary.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/3_FingerTracking/0-ContentSummary.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/3_FingerTracking/1_Intro.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/3_FingerTracking/1_Intro.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/3_FingerTracking/2_ReplaceControllerProfile.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/3_FingerTracking/2_ReplaceControllerProfile.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/3_FingerTracking/3_EnableHandController.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/3_FingerTracking/3_EnableHandController.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/3_FingerTracking/4_Summary.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/3_FingerTracking/4_Summary.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/Resources/vg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/Resources/vg.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/Settings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/Settings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/TutorialCallbacks.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/TutorialCallbacks.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/TutorialCallbacks.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/TutorialCallbacks.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/TutorialDependencies.asmdef" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/TutorialDependencies.asmdef.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/Tutorials.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/Tutorials.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/Welcome.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/ThirdParty/VirtualGrasp/Tutorials/Welcome.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XR.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XR/Loaders.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XR/Loaders/OpenXRLoader.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XR/Loaders/OpenXRLoader.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XR/Settings.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Editor Settings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Editor Settings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Package Settings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XR/Settings/OpenXR Package Settings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XR/XRGeneralSettingsPerBuildTarget.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XR/XRGeneralSettingsPerBuildTarget.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XRI.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XRI/Settings.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XRI/Settings/Resources.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XRI/Settings/Resources/InteractionLayerSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XRI/Settings/Resources/InteractionLayerSettings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XRI/Settings/XRInteractionEditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XRI/Settings/XRInteractionEditorSettings.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XRI_Examples.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XRI_Examples/Global.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XRI_Examples/Global/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XRI_Examples/Global/Materials/Controller.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XRI_Examples/Global/Materials/Controller.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XRI_Examples/Global/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XRI_Examples/Global/Prefabs/XRController_Left_Black.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XRI_Examples/Global/Prefabs/XRController_Left_Black.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XRI_Examples/Global/Prefabs/XRController_Right_Black.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/XRI_Examples/Global/Prefabs/XRController_Right_Black.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/MemorySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PackageManagerSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.testtools.codecoverage/Settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/SceneTemplateSettings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/VersionControlSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/XRPackageSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/XRSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/boot.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserSettings/EditorUserSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserSettings/Search.settings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.performance.profile-analyzer@1.1.1/Editor/TopMarkers.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.2/Editor/CurveEditUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.xr.management@4.3.3/Runtime/XRLoaderHelper.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
+  <component name="ProjectId" id="2NNWjyDzQEPuwcKOaNt3mvOeTVH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Discover.Launch.Via.Unity": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "C:\\Users\\BoilingMachine\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\DecompilerCache",
+      "C:\\Users\\BoilingMachine\\AppData\\Roaming\\JetBrains\\Rider2022.3\\resharper-host\\SourcesCache",
+      "C:\\Users\\BoilingMachine\\AppData\\Local\\Symbols\\src"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.6f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-projectPath C:\Users\BoilingMachine\RiderProjects\thirdLabaVR -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\BoilingMachine\RiderProjects\thirdLabaVR" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.6f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\BoilingMachine\RiderProjects\thirdLabaVR -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\BoilingMachine\RiderProjects\thirdLabaVR" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
