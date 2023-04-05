@@ -16,7 +16,7 @@ public class Fire : MonoBehaviour
         GetComponent<AudioSource>().Play();
         GameObject createBullet = Instantiate(bulletPrefab, spawnBullet.position, spawnBullet.rotation);
         createBullet.GetComponent<Rigidbody>().velocity = speed * spawnBullet.forward;
-        Destroy(spawnBullet, 5f);
+        Destroy(createBullet, 5f);
         pistolFire?.Invoke();
     }
 }
